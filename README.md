@@ -1,6 +1,4 @@
 # HMS__ADX
-Documentation of Hotel Management System:
-
 The Hotel Management System is designed to manage the booking, cancellation, and checking out of rooms in a hotel. It uses a MySQL database to store information about rooms, guests, and bookings. The system is divided into four main Java classes: Hotel, Login_menu, Menu, and Room.
 
 Hotel class:
